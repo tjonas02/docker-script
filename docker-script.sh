@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #This script install Docker on Linux, Centos7..
-#Author:Alex
+#Author:Jonas
 #Date: Mars, 06/2022.
 
 echo "\n Let check your login privileges for this action\n"
